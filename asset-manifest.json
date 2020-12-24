@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/npmdarkModeReactdemo/static/css/main.27f905be.chunk.css",
+    "main.js": "/npmdarkModeReactdemo/static/js/main.b03ad325.chunk.js",
+    "main.js.map": "/npmdarkModeReactdemo/static/js/main.b03ad325.chunk.js.map",
+    "runtime-main.js": "/npmdarkModeReactdemo/static/js/runtime-main.3def8482.js",
+    "runtime-main.js.map": "/npmdarkModeReactdemo/static/js/runtime-main.3def8482.js.map",
+    "static/js/2.b3ee1452.chunk.js": "/npmdarkModeReactdemo/static/js/2.b3ee1452.chunk.js",
+    "static/js/2.b3ee1452.chunk.js.map": "/npmdarkModeReactdemo/static/js/2.b3ee1452.chunk.js.map",
+    "static/js/3.ec0108ae.chunk.js": "/npmdarkModeReactdemo/static/js/3.ec0108ae.chunk.js",
+    "static/js/3.ec0108ae.chunk.js.map": "/npmdarkModeReactdemo/static/js/3.ec0108ae.chunk.js.map",
+    "index.html": "/npmdarkModeReactdemo/index.html",
+    "static/css/main.27f905be.chunk.css.map": "/npmdarkModeReactdemo/static/css/main.27f905be.chunk.css.map",
+    "static/js/2.b3ee1452.chunk.js.LICENSE.txt": "/npmdarkModeReactdemo/static/js/2.b3ee1452.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3def8482.js",
+    "static/js/2.b3ee1452.chunk.js",
+    "static/css/main.27f905be.chunk.css",
+    "static/js/main.b03ad325.chunk.js"
+  ]
+}
